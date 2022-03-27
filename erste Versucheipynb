@@ -1,0 +1,97 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "software & da",
+      "provenance": []
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "code",
+      "execution_count": 6,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "3Q5iHu2LoNyz",
+        "outputId": "e6832d2e-42d0-4f6b-fd54-a40aa1c32d00"
+      },
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "34"
+            ]
+          },
+          "metadata": {},
+          "execution_count": 6
+        }
+      ],
+      "source": [
+        "2*17"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "# Kommentar mit einem Hashtag"
+      ],
+      "metadata": {
+        "id": "Kd4Cxzsvov7I"
+      },
+      "execution_count": 5,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "#Überschrift mit Hashtag"
+      ],
+      "metadata": {
+        "id": "6gWGqPJmqc4M"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "##Unterüberschrift mit zwei Hashtags"
+      ],
+      "metadata": {
+        "id": "qusWW_89qkW6"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print ('hello world')"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "WPd76aF9o5Gg",
+        "outputId": "8d2ecd60-85cc-4be2-834b-38906e9dd947"
+      },
+      "execution_count": 3,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "hello world\n"
+          ]
+        }
+      ]
+    }
+  ]
+}
